@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Joeysal94/portfoillo.git/static/css/main.9f6d841e.css",
+    "main.js": "/Joeysal94/portfoillo.git/static/js/main.3c0e486b.js",
+    "static/js/787.57700dcd.chunk.js": "/Joeysal94/portfoillo.git/static/js/787.57700dcd.chunk.js",
+    "index.html": "/Joeysal94/portfoillo.git/index.html",
+    "main.9f6d841e.css.map": "/Joeysal94/portfoillo.git/static/css/main.9f6d841e.css.map",
+    "main.3c0e486b.js.map": "/Joeysal94/portfoillo.git/static/js/main.3c0e486b.js.map",
+    "787.57700dcd.chunk.js.map": "/Joeysal94/portfoillo.git/static/js/787.57700dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f6d841e.css",
+    "static/js/main.3c0e486b.js"
+  ]
+}
